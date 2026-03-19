@@ -35,5 +35,10 @@ shown below
 Design a Single Phase Inverter having the DC input supply of 100V and output resistance 1 ohm using pulse generator.
 
 ## Simulation
+<img width="1195" height="639" alt="Screenshot 2026-03-16 130140" src="https://github.com/user-attachments/assets/6080e718-86a2-47cb-8091-35c89a0cf448" />
+
 ## Output
+![E7 OP](https://github.com/user-attachments/assets/4f140c0a-493f-40bb-86b3-5f1b1171fe6e)
+
 ## Result
+Thus, the single phase inverter has been successfully simulated.
